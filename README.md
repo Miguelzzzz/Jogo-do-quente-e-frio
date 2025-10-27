@@ -3,13 +3,9 @@
 Um simples e divertido jogo de adivinhação desenvolvido em Python!  
 O jogador tenta descobrir um número misterioso gerado aleatoriamente pelo computador, recebendo dicas se está **acima** ou **abaixo** do valor correto.
 
----
-
 ## 🎯 Objetivo
 Adivinhar o número misterioso gerado pelo computador no menor número de tentativas possível.  
 O programa fornece dicas a cada palpite e registra todas as tentativas até o jogador acertar.
-
----
 
 ## 🧠 Regras e Funcionalidades
 
