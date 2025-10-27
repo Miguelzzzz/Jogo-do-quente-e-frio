@@ -1,7 +1,7 @@
 # 🧩 Jogo do Quente ou Frio — Python
 
 Um simples e divertido jogo de adivinhação desenvolvido em Python!  
-O jogador tenta descobrir um número misterioso gerado aleatoriamente pelo computador, recebendo dicas se está **(frio)** ou **(quente)** do valor correto.
+O jogador tenta descobrir um número misterioso gerado aleatoriamente pelo computador, recebendo dicas se está **longe (frio)** ou **perto (quente)** do valor correto.
 
 ---
 
