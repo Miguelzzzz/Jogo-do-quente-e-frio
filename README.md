@@ -1,4 +1,4 @@
-# 🧩 Jogo do Quente ou Frio — Python
+# 🧩 Jogo do Quente ou Frio — Fase 1 (Python).
 
 Um simples e divertido jogo de adivinhação desenvolvido em Python!  
 O jogador tenta descobrir um número misterioso gerado aleatoriamente pelo computador, recebendo dicas se está **acima** ou **abaixo** do valor correto.
